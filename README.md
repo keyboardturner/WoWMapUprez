@@ -3,6 +3,10 @@ A project to uprez every single low quality map in WoW using SRCNNs. All fully c
 
 This project does not include any maps which are already 4k resolution, such as the ones pertaining to Battle for Azeroth.
 
+Current size estimate of project: 5.5GB
+
+Download at your own risk.
+
 So far the project includes:
 <details>
 	<summary>Cities (Classic)</summary>
