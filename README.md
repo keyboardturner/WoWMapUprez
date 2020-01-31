@@ -5,6 +5,14 @@ This project does not include any maps which are already 4k resolution, such as 
 
 So far the project includes:
 <details>
+<summary>Eastern Kingdoms (Classic)</summary>
+[PH]
+</details>
+<details>
+<summary>Kalimdor (Classic)</summary>
+[PH]
+</details>
+<details>
 <summary>Eastern Kingdoms (Cataclysm)</summary>
 [PH]
 </details>
