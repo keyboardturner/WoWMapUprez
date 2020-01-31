@@ -20,22 +20,22 @@ So far the project includes:
 	<summary>Cities (Cataclysm)</summary>
 	
 	[PH]
-	AshranAllianceFactionHub (Stormshield)
-	AshranHordeFactionHub (Warspear)
-	Dalaran (wrath_1)
-	Dalaran7 (Legion_1)
-	Dalaran70 (Legion_2)
-	DalaranCity (wrath_2)
-	Darnassus
-	GilneasCity
-	Ironforge
-	Orgrimmar
-	ShattrathCity
-	SilvermoonCity
-	StormwindCity
-	TheExodar
-	ThunderBluff
-	Undercity
+	AshranAllianceFactionHub (Stormshield) png+blp
+	AshranHordeFactionHub (Warspear) png+blp
+	Dalaran (wrath_1) png+blp
+	Dalaran7 (Legion_1) png+blp
+	Dalaran70 (Legion_2) png+blp
+	DalaranCity (wrath_2) png+blp
+	Darnassus png+blp
+	GilneasCity png+blp
+	Ironforge png+blp
+	Orgrimmar png+blp
+	ShattrathCity png+blp
+	SilvermoonCity png+blp
+	StormwindCity png+blp
+	TheExodar png+blp
+	ThunderBluff png+blp
+	Undercity png+blp
 </details>
 <details>
 	<summary>Eastern Kingdoms (Cataclysm)</summary>
