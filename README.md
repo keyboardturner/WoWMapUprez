@@ -55,6 +55,10 @@ Pandaria Continent
 <details>
 <summary>Files which are incomplete:</summary>
 [PH]
+<details>
+  <summary>Dungeons:</summary>
+  [PH]
+</details>
 </details>
 <details>
 <summary>Files which require special treatment:</summary>
