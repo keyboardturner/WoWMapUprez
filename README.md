@@ -97,7 +97,43 @@ So far the project includes:
 </details>
 <details>
 	<summary>Kalimdor (Cataclysm)</summary>
+	
 	[PH]
+	AmmenValeStart blp+png
+	Ashenvale blp+png
+	Aszhara blp+png
+	AzuremystIsle blp+png
+	AzuremystIsleScenario blp+png
+	Barrens blp+png
+	BloodmystIsle blp+png
+	CampNaracheStart blp+png
+	Desolace blp+png
+	Durotar blp+png
+	Dustwallow blp+png
+	Dustwallow_terrain1 blp+png
+	DustwallowMarshScenario blp+png
+	DustwallowMarshScenarioAlliance blp+png
+	EchoIslesStart blp+png
+	Felwood blp+png
+	Feralas blp+png
+	Hyjal blp+png
+	Hyjal_terrain1 blp+png
+	MoltenFront blp+png
+	Moonglade blp+png
+	Mulgore blp+png
+	ShadowglenStart blp+png
+	Silithus blp+png
+	Silithus_Terrain1 blp+png
+	SouthernBarrens blp+png
+	StonetalonMountains blp+png
+	Tanaris blp+png
+	Thousandneedles blp+png
+	ThreatUldum blp+png
+	Uldum blp+png
+	Uldum_terrain1 blp+png
+	UngoroCraterr blp+png
+	ValleyofTrialsStart blp+png
+	Winterspring blp+png
 </details>
 <details>
 	<summary>Outland (Burning Crusade)</summary>
