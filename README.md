@@ -58,6 +58,42 @@ So far the project includes:
 	DunMoroghScenario blp
 	Duskwood blp
 	EasternPlaguelands blp
+	Elwynn blp
+	EversongWoods blp
+	Ghostlands blp
+	Gilneas blp
+	Gilneas_terrain1 blp
+	Gilneas_terrain2 blp
+	GilneasCity blp
+	GilneasDreamway blp
+	HillsbradFoothills blp
+	Hilsbrad blp
+	Hinterlands blp
+	Lochmodan blp
+	Redridge blp
+	ScarletEnclave blp
+	SearingGorge blp
+	Silverpine blp
+	Stranglethorn blp
+	StranglethornJungle blp
+	StranglethornVale blp
+	Sunwell blp
+	SwampOfSorrows blp
+	TheCapeofStranglethorn blp
+	Tirisfal blp
+	Tirisfal_terrain1 blp
+	TolBarad blp
+	TolBaradDailyArea blp
+	TolBaradWarlockScenario blp
+	TwilightHighlands blp
+	TwilightHighlands_terrain1 blp
+	Vashjir blp
+	VashjirDepths blp
+	VashjirKelpForest blp
+	VashjirRuins blp
+	WesternPlaguelands blp
+	Westfall blp
+	Wetlands blp
 </details>
 <details>
 	<summary>Kalimdor (Cataclysm)</summary>
