@@ -44,7 +44,20 @@ So far the project includes:
 </details>
 <details>
 	<summary>Eastern Kingdoms (Cataclysm)</summary>
+	
 	[PH]
+	Arathi blp
+	Arathi_Terrain1 blp
+	Badlands blp
+	BlastedLands blp
+	BlastedLands_Terrain1 blp
+	BurningSteppes blp
+	DeadwindPass blp
+	DeathknellStart blp
+	DunMorogh blp
+	DunMoroghScenario blp
+	Duskwood blp
+	EasternPlaguelands blp
 </details>
 <details>
 	<summary>Kalimdor (Cataclysm)</summary>
