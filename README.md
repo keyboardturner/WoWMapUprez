@@ -137,7 +137,15 @@ So far the project includes:
 </details>
 <details>
 	<summary>Outland (Burning Crusade)</summary>
+	
 	[PH]
+	BladesEdgeMountains blp+png
+	Hellfire blp+png
+	Nagrand blp+png
+	Netherstorm blp+png
+	ShadowmoonValley blp+png
+	TerokkarForest blp+png
+	Zangarmarsh blp+png
 </details>
 <details>
 	<summary>Northrend (Wrath of the Lich King)</summary>
