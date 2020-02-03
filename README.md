@@ -3,12 +3,24 @@ A project to uprez every single low quality map in WoW using SRCNNs. All fully c
 
 This project does not include any maps which are already 4k resolution, such as the ones pertaining to Battle for Azeroth.
 
+[logo]: https://wow.zamimg.com/images/icons/expansions/bfa.png
+
+<!-- [Looking for the WoW Classic version?](https://github.com/keyboardturner/WoWMapUprezClassic) -->
+
+Last Update:  Patch 8.3.0.33169 ![patch 8.3.0.33169][logo]
+
+
+<!-- What's new in Shadowlands Patch 9.0.n? -->
+<!-- dropdown -->
+<!-- BFA → Shadowlands Patch: link -->
+<!-- Only install this if you are updating from patch 8.3.0 to 9.0.n -->
+
 Current size estimate of project: 5.5GB
 
 Download at your own risk.
 
 So far the project includes:
-<details>
+<!-- <details>
 	<summary>Cities (Classic)</summary>
 	
 	[PH]
@@ -22,11 +34,10 @@ So far the project includes:
 	<summary>Kalimdor (Classic)</summary>
 	
 	[PH]
-</details>
+</details> -->
 <details>
 	<summary>Cities (Cataclysm)</summary>
 	
-	[PH]
 	AshranAllianceFactionHub (Stormshield) png+blp
 	AshranHordeFactionHub (Warspear) png+blp
 	Dalaran (Wrath_1) png+blp
@@ -48,7 +59,6 @@ So far the project includes:
 <details>
 	<summary>Eastern Kingdoms (Cataclysm)</summary>
 	
-	[PH]
 	Arathi blp+png
 	Arathi_Terrain1 blp+png
 	Badlands blp+png
@@ -101,7 +111,6 @@ So far the project includes:
 <details>
 	<summary>Kalimdor (Cataclysm)</summary>
 	
-	[PH]
 	AmmenValeStart blp+png
 	Ashenvale blp+png
 	Aszhara blp+png
@@ -110,6 +119,8 @@ So far the project includes:
 	Barrens blp+png
 	BloodmystIsle blp+png
 	CampNaracheStart blp+png
+	Darkshore blp+png
+	DarkshoreOutdoor (8.1.0 Darkshore) blp+png
 	Desolace blp+png
 	Durotar blp+png
 	Dustwallow blp+png
@@ -130,6 +141,7 @@ So far the project includes:
 	SouthernBarrens blp+png
 	StonetalonMountains blp+png
 	Tanaris blp+png
+	Teldrassil blp+png
 	Thousandneedles blp+png
 	ThreatUldum blp+png
 	Uldum blp+png
@@ -141,7 +153,6 @@ So far the project includes:
 <details>
 	<summary>Outland (Burning Crusade)</summary>
 	
-	[PH]
 	BladesEdgeMountains blp+png
 	Hellfire blp+png
 	Nagrand blp+png
@@ -153,7 +164,6 @@ So far the project includes:
 <details>
 	<summary>Northrend (Wrath of the Lich King)</summary>
 	
-	[PH]
 	BoreanTundra blp+png
 	CrystalSongForest blp+png
 	Dragonblight blp+png
@@ -168,7 +178,7 @@ So far the project includes:
 <details>
 	<summary>Maelstrom (Cataclysm)</summary>
 	
-	[PH]
+	DarkmoonFaireIsland blp+png
 	Deepholm blp+png
 	DeepholmShamanAcquisition blp+png
 	Kezan blp+png
@@ -181,7 +191,7 @@ So far the project includes:
 <details>
 	<summary>Pandaria (Mists of Pandaria)</summary>
 	
-	[PH]
+	Pandaria blp+png
 	DreadWastes blp+png
 	IsleofGiants blp+png
 	IsleoftheThunderKing blp+png
@@ -191,6 +201,7 @@ So far the project includes:
 	KunLaiSummit blp+png
 	TheHiddenPass (The Veiled Stair) blp+png
 	TheJadeForest blp+png
+	TheWanderingIsle blp+png
 	TimelessIsle blp+png
 	TownlongWastes (Townlong Steppes) blp+png
 	ValeofEternalBlossoms blp+png
@@ -199,7 +210,7 @@ So far the project includes:
 <details>
 	<summary>Draenor (Warlords of Draenor)</summary>
 	
-	[PH]
+	Draenor blp+png
 	Ashran blp+png
 	FrostfireRidge blp+png
 	Gorgrond blp+png
@@ -214,7 +225,7 @@ So far the project includes:
 <details>
 	<summary>Broken Isles (Legion)</summary>
 	
-	[PH]
+	BrokenIsles blp+png
 	Argus blp+png
 	ArgusCore (Antoran Wastes) blp+png
 	ArgusMacAree blp+png
@@ -247,6 +258,11 @@ So far the project includes:
 	
 	<details>
 		<summary>Dungeons:</summary>
+		
+		[PH]
+	</details>
+	<details>
+		<summary>Order Halls:</summary>
 		
 		[PH]
 	</details>
