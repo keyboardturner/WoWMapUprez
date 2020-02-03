@@ -253,19 +253,9 @@ So far the project includes:
 
 <details>
 	<summary>Files which are incomplete:</summary>
-	
+	Dungeons
+	Order Halls
 	[PH]
-	
-	<details>
-		<summary>Dungeons:</summary>
-		
-		[PH]
-	</details>
-	<details>
-		<summary>Order Halls:</summary>
-		
-		[PH]
-	</details>
 </details>
 <details>
 	<summary>Files which require special treatment:</summary>
