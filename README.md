@@ -10,14 +10,17 @@ Download at your own risk.
 So far the project includes:
 <details>
 	<summary>Cities (Classic)</summary>
+	
 	[PH]
 </details>
 <details>
 	<summary>Eastern Kingdoms (Classic)</summary>
+	
 	[PH]
 </details>
 <details>
 	<summary>Kalimdor (Classic)</summary>
+	
 	[PH]
 </details>
 <details>
@@ -26,10 +29,10 @@ So far the project includes:
 	[PH]
 	AshranAllianceFactionHub (Stormshield) png+blp
 	AshranHordeFactionHub (Warspear) png+blp
-	Dalaran (wrath_1) png+blp
+	Dalaran (Wrath_1) png+blp
 	Dalaran7 (Legion_1) png+blp
 	Dalaran70 (Legion_2) png+blp
-	DalaranCity (wrath_2) png+blp
+	DalaranCity (Wrath_2) png+blp
 	Darnassus png+blp
 	GilneasCity png+blp
 	Ironforge png+blp
@@ -149,23 +152,85 @@ So far the project includes:
 </details>
 <details>
 	<summary>Northrend (Wrath of the Lich King)</summary>
+	
 	[PH]
+	BoreanTundra blp+png
+	CrystalSongForest blp+png
+	Dragonblight blp+png
+	GrizzlyHills blp+png
+	HowlingFjord blp+png
+	HrothgarsLanding blp+png
+	LakeWintergrasp blp+png
+	SholazarBasin blp+png
+	TheStormPeaks blp+png
+	ZulDrak blp+png
 </details>
 <details>
 	<summary>Maelstrom (Cataclysm)</summary>
+	
 	[PH]
+	Deepholm blp+png
+	DeepholmShamanAcquisition blp+png
+	Kezan blp+png
+	TheLostIsles blp+png
+	TheLostIsles_terrain1 blp+png
+	TheLostIsles_terrain2 blp+png
+	TheMaelstrom blp+png
+	TheMaelstromContinent blp+png
 </details>
 <details>
 	<summary>Pandaria (Mists of Pandaria)</summary>
+	
 	[PH]
+	DreadWastes blp+png
+	IsleofGiants blp+png
+	IsleoftheThunderKing blp+png
+	IsleoftheThunderKingScenario blp+png
+	Krasarang blp+png
+	Krasarang_Terrain1 blp+png
+	KunLaiSummit blp+png
+	TheHiddenPass (The Veiled Stair) blp+png
+	TheJadeForest blp+png
+	TimelessIsle blp+png
+	TownlongWastes (Townlong Steppes) blp+png
+	ValeofEternalBlossoms blp+png
+	ValleyoftheFourWinds blp+png
 </details>
 <details>
 	<summary>Draenor (Warlords of Draenor)</summary>
+	
 	[PH]
+	Ashran blp+png
+	FrostfireRidge blp+png
+	Gorgrond blp+png
+	GorgrondScenario blp+png
+	NagrandDraenor blp+png
+	ShadowmoonValleyDR blp+png
+	SpiresOfArak blp+png
+	Talador blp+png
+	TanaanJungle blp+png
+	TanaanJungleIntro blp+png
 </details>
 <details>
 	<summary>Broken Isles (Legion)</summary>
+	
 	[PH]
+	Argus blp+png
+	ArgusCore (Antoran Wastes) blp+png
+	ArgusMacAree blp+png
+	ArgusSurface (Krokuun) blp+png
+	Azsuna blp+png
+	BrokenShore blp+png
+	BrokenShoreIntro blp+png
+	BrokenShorePaladin blp+png
+	Helheim blp+png
+	HighMountain blp+png
+	Stormheim blp+png
+	Suramar blp+png
+	SuramarNoblesDistrict blp+png
+	ThunderTotem blp+png
+	ValSharah blp+png
+	
 </details>
 
 <details>
@@ -177,13 +242,17 @@ So far the project includes:
 
 <details>
 	<summary>Files which are incomplete:</summary>
+	
 	[PH]
+	
 	<details>
 		<summary>Dungeons:</summary>
+		
 		[PH]
 	</details>
 </details>
 <details>
 	<summary>Files which require special treatment:</summary>
+	
 	[PH]
 </details>
