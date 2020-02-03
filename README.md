@@ -54,7 +54,8 @@ So far the project includes:
 	TheExodar png+blp
 	ThunderBluff png+blp
 	Undercity png+blp
-	--Shrine of Two Moons / Seven Stars are "MicroDungeons" and will be added soon.
+	ShrineofTwoMoons
+	ShrineofSevenStars
 </details>
 <details>
 	<summary>Eastern Kingdoms (Cataclysm)</summary>
