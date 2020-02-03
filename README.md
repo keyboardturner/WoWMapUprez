@@ -242,7 +242,6 @@ So far the project includes:
 	SuramarNoblesDistrict blp+png
 	ThunderTotem blp+png
 	ValSharah blp+png
-	
 </details>
 
 <details>
@@ -255,8 +254,15 @@ So far the project includes:
 <details>
 	<summary>Files which are incomplete:</summary>
 	
-	Dungeons
-	Order Halls
+	AhnQirajTheFallenKingdom
+	AszunaDungeonExterior
+	IcecrownGlacier
+	RuinsOfGilneas
+	RuinsofGilneasCity
+	ThreatValeofEternalBlossoms
+	
+	--Dungeons - intended for new project
+	--Order Halls - intended for new project
 </details>
 <details>
 	<summary>Files which require special treatment:</summary>
