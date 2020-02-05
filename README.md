@@ -252,7 +252,7 @@ So far the project includes:
 <details>
 	<summary>Kul Tiras (Battle for Azeroth)</summary>
 	
-	Tol Dagor blp+png
+	PrisonDungeon (Tol Dagor Exterior) blp+png
 </details>
 <details>
 	<summary>Files which have recieved special treatment or custom touchups:</summary>
