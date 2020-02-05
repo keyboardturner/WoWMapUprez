@@ -249,7 +249,11 @@ So far the project includes:
 	ThunderTotem blp+png
 	ValSharah blp+png
 </details>
-
+<details>
+	<summary>Kul Tiras (Battle for Azeroth)</summary>
+	
+	Tol Dagor blp+png
+</details>
 <details>
 	<summary>Files which have recieved special treatment or custom touchups:</summary>
 	
