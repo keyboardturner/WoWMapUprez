@@ -1,4 +1,4 @@
-# WoWMapUprez
+# WoWMapUprez v-0.0.1
 A project to uprez every single low quality map in WoW using SRCNNs. All fully constructed maps will result in 4k resolution.
 
 This project does not include any maps which are already 4k resolution, such as the ones pertaining to Battle for Azeroth.
@@ -85,6 +85,8 @@ So far the project includes:
 	Hinterlands blp+png
 	Lochmodan blp+png
 	Redridge blp+png
+	RuinsOfGilneas blp+png
+	RuinsofGilneasCity blp+png
 	ScarletEnclave blp+png
 	SearingGorge blp+png
 	Silverpine blp+png
@@ -112,6 +114,7 @@ So far the project includes:
 <details>
 	<summary>Kalimdor (Cataclysm)</summary>
 	
+	AhnQirajTheFallenKingdom blp+png
 	AmmenValeStart blp+png
 	Ashenvale blp+png
 	Aszhara blp+png
@@ -145,6 +148,7 @@ So far the project includes:
 	Teldrassil blp+png
 	Thousandneedles blp+png
 	ThreatUldum blp+png
+	ThreatValeofEternalBlossoms blp+png
 	Uldum blp+png
 	Uldum_terrain1 blp+png
 	UngoroCraterr blp+png
@@ -171,6 +175,7 @@ So far the project includes:
 	GrizzlyHills blp+png
 	HowlingFjord blp+png
 	HrothgarsLanding blp+png
+	IcecrownGlacier blp+png
 	LakeWintergrasp blp+png
 	SholazarBasin blp+png
 	TheStormPeaks blp+png
@@ -232,6 +237,7 @@ So far the project includes:
 	ArgusMacAree blp+png
 	ArgusSurface (Krokuun) blp+png
 	Azsuna blp+png
+	AszunaDungeonExterior blp+png
 	BrokenShore blp+png
 	BrokenShoreIntro blp+png
 	BrokenShorePaladin blp+png
@@ -253,13 +259,6 @@ So far the project includes:
 
 <details>
 	<summary>Files which are incomplete:</summary>
-	
-	AhnQirajTheFallenKingdom
-	AszunaDungeonExterior
-	IcecrownGlacier
-	RuinsOfGilneas
-	RuinsofGilneasCity
-	ThreatValeofEternalBlossoms
 	
 	--Dungeons - intended for new project
 	--Order Halls - intended for new project
