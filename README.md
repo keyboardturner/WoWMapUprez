@@ -272,3 +272,27 @@ So far the project includes:
 	
 	[PH]
 </details>
+
+Q: "How long did this project take?"
+
+> A: Approximately 90+ hours to upscale & convert. The process is automated, so my own personal time is about 5 hours. I make my laptop take breaks so not to stress the hardware too long.
+
+Q: "What are the specs of the laptop?"
+
+> A: [i7-4720HQ CPU @ 2.60GHz](https://www.cpubenchmark.net/cpu.php?cpu=Intel+Core+i7-4720HQ+%40+2.60GHz&id=2448), 16 GB DDR3 RAM, [GTX 960M](https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+GTX+960M&id=3176)+Intel(R) HD Graphics 4600. It's moderately powerful, a bit on the low/cheap end in regards to gaming laptops. It's sufficed for the past 5 years or so. I would get a better machine, but at the time of writing this I'm entrenched in college work.
+
+Q: "Why was this made?"
+
+> A: Just felt like fun. I read up on [SRCNNs](http://mmlab.ie.cuhk.edu.hk/projects/SRCNN.html) and thought maybe I should take a jab at it. I also additionally liked seeing similar work done in some Skyrim mods for [Mushrooms](https://www.nexusmods.com/skyrimspecialedition/mods/26103?tab=images) and [Plants](https://www.nexusmods.com/skyrimspecialedition/mods/26104?tab=images). I did some earlier projects where I wanted to do it by hand, but inevitably I felt I would diverge from the original maps and alter them in a way others wouldn't like. This would have been a lot more time and effort involved. Perhaps in the future I might consider more interesting projects to make the maps adhere closer to how they are in lore, such like the [Chronicle maps](https://i.imgur.com/35Y0pdi.jpg), or maybe even craft them in the Chronicle style. No plans currently, and certainly no ETA.
+
+Q: "Why not change the maps?"
+
+> A: These maps are intended to stay 100% "vanilla." No alterations, no changes. Only minor "bug fixes" ([Pandaria continent map](https://twitter.com/keyboardturn/status/1218823545028927489).) Even then, I have listed what has been altered and what changes have been made.
+
+Q: "Why not charge money?"
+
+> A: It's not something I like to do. This is a hobby, not a job. I do accept donations. I'm never in it for the money. Until I get my paypal set up, you can donate gold to my WoW characters. I play on US servers, so sorry for any EU fans: [Simaia-WyrmrestAccord](https://worldofwarcraft.com/en-us/character/us/wyrmrest-accord/simaia) or [Kaestra-WyrmrestAccord](https://worldofwarcraft.com/en-us/character/us/wyrmrest-accord/kaestra).
+
+Q: "Do you work for Blizzard?"
+
+> A: No. Not sure if this is what I'd primarily like to work on if I did. I'd much rather work on WoW's lacking customisation options. There's some new stuff in Shadowlands coming out, but I'd like to just go all out on making more stuff - [mostly minor little things](https://twitter.com/keyboardturn/status/1197625790671622146).
