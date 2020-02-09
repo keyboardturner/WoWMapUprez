@@ -19,7 +19,21 @@ Approximate size of project: 5.43GB
 
 Download at your own risk.
 
-So far the project includes:
+# Installation:
+
+1. At the project page, click `Clone or download` and select `Download ZIP`. It may take a while to download because it's very big (It's about 1.88GB compressed / download).
+2. When the file is finished downloading, find the `_retail_` directory and open it.
+3. When you open the .zip file, it may have `WoWMapUprez-master`. Inside that should have the contents `Interface` and a `README.md`.
+4. Simply drag-drop to merge the `interface` folder in your WoW folder and replace the currently existing one. Below is a gif showing what is done.
+
+If you're updating to a new version, make sure to approve files being overwritten. This process can take some time to complete.
+The process is the same for Classic, just a significant less amount of files.
+
+![installation](https://cdn.discordapp.com/attachments/674816552595488778/674845234047221780/2020-02-05_21-01-02.gif)
+
+If you've followed these steps, it should be done! Changes will take restarting your WoW client to take effect.
+
+# Contents:
 <details>
 	<summary>Cities (Cataclysm)</summary>
 	
