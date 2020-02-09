@@ -32,6 +32,10 @@ If you're updating to a new version, make sure to approve files being overwritte
 
 If you've followed these steps, it should be done! Changes will take restarting your WoW client to take effect.
 
+# Uninstalling:
+
+1. In the same `...\World of Warcraft\_retail_\Interface\` directory, delete `Worldmap`. Easy.
+
 # Contents:
 <details>
 	<summary>Cities (Cataclysm)</summary>
