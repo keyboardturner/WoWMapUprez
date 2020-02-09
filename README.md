@@ -49,7 +49,7 @@ So far the project includes:
 	Pandaria
 	Draenor
 	BrokenIsles
-<details>
+</details>
 <details>
 	<summary>Eastern Kingdoms (Cataclysm)</summary>
 	
