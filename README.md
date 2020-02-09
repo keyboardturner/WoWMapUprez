@@ -279,7 +279,7 @@ If you've followed these steps, it should be done! Changes will take restarting 
 	[N/A]
 </details>
 
-# Q&A
+# Q&A:
 
 Q: "Where are the raid / dungeon / cave maps?"
 
@@ -308,3 +308,9 @@ Q: "Why not charge money?"
 Q: "Do you work for Blizzard?"
 
 > A: No. Not sure if this is what I'd primarily like to work on if I did. I'd much rather work on WoW's lacking customisation options. There's some new stuff in Shadowlands coming out, but I'd like to just go all out on making more stuff - [mostly minor little things](https://twitter.com/keyboardturn/status/1197625790671622146).
+
+# Contact:
+
+[Twitter](https://twitter.com/keyboardturn)
+
+I admin the [WoW AddOn Discord](http://discord.gg/sXy46yZ)
