@@ -262,6 +262,10 @@ So far the project includes:
 	[N/A]
 </details>
 
+Q: "Where are the raid / dungeon / cave maps?"
+
+> A: They're too numerous at the moment and might come as a future optional "expansion" pack. I didn't want to make the base outdoor zone maps include potentially 5+GB of dungeons and raids. Still planning on how to best release it - it'll likely be linked in this description at a later time. I wanted to get the Classic maps done and ensure the quality of the existing world maps first.
+
 Q: "How long did this project take?"
 
 > A: Approximately 90+ hours to upscale & convert. The process is automated, so my own personal time is about 5 hours. I make my laptop take breaks so not to stress the hardware too long.
