@@ -27,7 +27,6 @@ Download at your own risk.
 4. Simply drag-drop to merge the `interface` folder in your WoW folder and replace the currently existing one. Below is a gif showing what is done.
 
 If you're updating to a new version, make sure to approve files being overwritten. This process can take some time to complete.
-The process is the same for Classic, just a significant less amount of files.
 
 ![installation](https://cdn.discordapp.com/attachments/674816552595488778/674845234047221780/2020-02-05_21-01-02.gif)
 
