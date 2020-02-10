@@ -43,6 +43,10 @@ If you've followed these steps, it should be done! Changes will take restarting 
 
 1. In the same `...\World of Warcraft\_retail_\Interface\` directory, delete `Worldmap`. Easy.
 
+# Bug Reporting:
+
+If you see any weird glitches, forgotten maps (which are listed below but aren't working in game), or weird clipping issue, report them [here](https://github.com/keyboardturner/WoWMapUprez/issues).
+
 # Contents:
 <details>
 	<summary>Cities (Cataclysm)</summary>
