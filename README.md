@@ -19,6 +19,12 @@ Approximate size of project: 5.43GB
 
 Download at your own risk.
 
+<details>
+	<summary>Comparisons</summary>
+	<img src="https://i.imgur.com/ZR8QOmt.png">
+	<img src="https://i.imgur.com/LxaVbIH.png">
+	<img src="https://i.imgur.com/i2MhB0D.png">
+</details>
 # Installation:
 
 1. At the project page, click `Clone or download` and select `Download ZIP`. It may take a while to download because it's very big (It's about 1.88GB compressed / download).
