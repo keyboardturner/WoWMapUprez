@@ -314,7 +314,7 @@ Q: "Why not change the maps?"
 
 Q: "Why not charge money?"
 
-> A: It's not something I like to do. This is a hobby, not a job. I do accept donations. I'm never in it for the money. Until I get my paypal set up, you can donate gold to my WoW characters. I play on US servers, so sorry for any EU fans: [Simaia-WyrmrestAccord](https://worldofwarcraft.com/en-us/character/us/wyrmrest-accord/simaia) or [Kaestra-WyrmrestAccord](https://worldofwarcraft.com/en-us/character/us/wyrmrest-accord/kaestra).
+> A: It's not something I like to do. This is a hobby, not a job. I do accept donations. I'm never in it for the money. Until I get my paypal set up, you can donate gold to my WoW characters. I play on US Retail servers, so sorry for any EU fans: ![alliance](https://wow.zamimg.com/images/icons/alliance.png)[Simaia-WyrmrestAccord](https://worldofwarcraft.com/en-us/character/us/wyrmrest-accord/simaia) or ![horde](https://wow.zamimg.com/images/icons/horde.png)[Kaestra-WyrmrestAccord](https://worldofwarcraft.com/en-us/character/us/wyrmrest-accord/kaestra). I additionally play on US Classic servers: ![alliance](https://wow.zamimg.com/images/icons/alliance.png)[Simaia-BloodsailBuccaneers](https://us.forums.blizzard.com/en/wow/u/simaia-bloodsail-buccaneers/) or ![horde](https://wow.zamimg.com/images/icons/horde.png)[Kelina-Grobbulus](https://us.forums.blizzard.com/en/wow/u/kelina-grobbulus/)
 
 Q: "Do you work for Blizzard?"
 
