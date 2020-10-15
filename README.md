@@ -275,7 +275,7 @@ If you see any weird glitches, forgotten maps (which are listed below but aren't
 	<summary>Shadowlands</summary>
 	
 	Exile's Reach
-	"North Sea" (Ocecan at Exile's Reach)
+	"North Sea" (Ocean at Exile's Reach)
 	Oribos
 	Updated Cosmic Map
 </details>
