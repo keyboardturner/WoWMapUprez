@@ -272,6 +272,14 @@ If you see any weird glitches, forgotten maps (which are listed below but aren't
 	PrisonDungeon (Tol Dagor Exterior) blp+png
 </details>
 <details>
+	<summary>Shadowlands</summary>
+	
+	Exile's Reach
+	"North Sea" (Ocecan at Exile's Reach)
+	Oribos
+	Updated Cosmic Map
+</details>
+<details>
 	<summary>Files which have recieved special treatment or custom touchups:</summary>
 	
 	Thunder Bluff
@@ -283,6 +291,7 @@ If you see any weird glitches, forgotten maps (which are listed below but aren't
 	
 	--Dungeons - intended for new project
 	--Order Halls - intended for new project
+	--Covenants - TBD
 </details>
 <details>
 	<summary>Files which require special treatment:</summary>
