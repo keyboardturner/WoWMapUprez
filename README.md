@@ -312,7 +312,7 @@ If you see any weird glitches, forgotten maps (which are listed below but aren't
 
 Q: "Where are the raid / dungeon / cave maps?"
 
-> A: They're too numerous at the moment and might come as a future optional "expansion" pack. I didn't want to make the base outdoor zone maps include potentially 5+GB of dungeons and raids. Still planning on how to best release it - it'll likely be linked in this description at a later time. I wanted to get the Classic maps done and ensure the quality of the existing world maps first.
+> ~~A: They're too numerous at the moment and might come as a future optional "expansion" pack. I didn't want to make the base outdoor zone maps include potentially 5+GB of dungeons and raids. Still planning on how to best release it - it'll likely be linked in this description at a later time. I wanted to get the Classic maps done and ensure the quality of the existing world maps first.~~ I've now pushed a public (Dungeon map pack)[https://github.com/keyboardturner/WoWMapUprez_Dungeons]. As it turns out, it was in fact 5+ GB.
 
 Q: "How long did this project take?"
 
