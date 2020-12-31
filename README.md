@@ -22,6 +22,8 @@ Most of the open world maps are already 4k quality, however there are some excep
 
 Approximate size of project: 5.6 GB
 
+Approximate size of both projects: 14.3 GB
+
 Download at your own risk.
 
 <details>
