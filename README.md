@@ -1,21 +1,26 @@
 # WoWMapUprez
 A project to uprez every single low quality map in WoW using SRCNNs. All fully constructed maps will result in 4k resolution.
 
-This project does not include any maps which are already 4k resolution, such as the ones pertaining to Battle for Azeroth.
+This project does not include any maps which are already 4k resolution, such as the ones pertaining to Battle for Azeroth and Shadowlands open world.
 
-[logo]: https://wow.zamimg.com/images/icons/expansions/bfa.png
+[logo]: https://wow.zamimg.com/images/icons/expansions/shadowlands.png
 
-[Looking for the WoW Classic version?](https://github.com/keyboardturner/WoWMapUprezClassic)
+[Looking for the WoW Classic version?](https://github.com/keyboardturner/WoWMapUprez)
 
-Last Update:  Patch 8.3.0.33169 ![patch 8.3.0.33169][logo]
+[Or maybe the Dungeon addition?](https://github.com/keyboardturner/WoWMapUprez_Dungeons)
+
+Last Update:  Patch 9.0.2.36949 ![patch 9.0.2.36949][logo]
 
 
-<!-- What's new in Shadowlands Patch 9.0.n? -->
+## What's new in Shadowlands Patch 9.0.2?
+
+Most of the open world maps are already 4k quality, however there are some exceptions such as covenant sanctums and dungeons. A major feature that has since changed is the world map, however. It's highly recommended that you upgrade this particular map.
+
 <!-- dropdown -->
 <!-- BFA → Shadowlands Patch: link -->
 <!-- Only install this if you are updating from patch 8.3.0 to 9.0.n -->
 
-Approximate size of project: 5.5 GB
+Approximate size of project: 5.6 GB
 
 Download at your own risk.
 
@@ -278,6 +283,12 @@ If you see any weird glitches, forgotten maps (which are listed below but aren't
 	"North Sea" (Ocean at Exile's Reach)
 	Oribos
 	Updated Cosmic Map
+	Covenant_Ard_Bot
+	Covenant_Bas_A
+	Covenant_Drust_Ard
+	Covenant_Mal
+	Covenant_PathOfAscension
+	Covenant_Rev_A
 </details>
 <details>
 	<summary>Files which have recieved special treatment or custom touchups:</summary>
@@ -289,9 +300,7 @@ If you see any weird glitches, forgotten maps (which are listed below but aren't
 <details>
 	<summary>Files which are incomplete:</summary>
 	
-	--Dungeons - intended for new project
 	--Order Halls - intended for new project
-	--Covenants - TBD
 </details>
 <details>
 	<summary>Files which require special treatment:</summary>
