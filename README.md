@@ -5,7 +5,7 @@ This project does not include any maps which are already 4k resolution, such as 
 
 [logo]: https://wow.zamimg.com/images/icons/expansions/shadowlands.png
 
-[Looking for the WoW Classic version?](https://github.com/keyboardturner/WoWMapUprez)
+[Looking for the WoW Classic version?](https://github.com/keyboardturner/WoWMapUprezClassic)
 
 [Or maybe the Dungeon addition?](https://github.com/keyboardturner/WoWMapUprez_Dungeons)
 
