@@ -7,6 +7,8 @@ This project does not include any maps which are already 4k resolution, such as 
 
 [Looking for the WoW Classic version?](https://github.com/keyboardturner/WoWMapUprezClassic)
 
+[Or perhaps TBC Classic?](https://github.com/keyboardturner/WoWMapUprezTBC)
+
 [Or maybe the Dungeon addition?](https://github.com/keyboardturner/WoWMapUprez_Dungeons)
 
 Last Update:  Patch 9.0.2.36949 ![patch 9.0.2.36949][logo]
@@ -345,3 +347,5 @@ Q: "Do you work for Blizzard?"
 [Twitter](https://twitter.com/keyboardturn)
 
 I admin the [WoW AddOn Discord](http://discord.gg/sXy46yZ)
+
+Also I got around to making a [Patreon](https://www.patreon.com/keyboardturner)
