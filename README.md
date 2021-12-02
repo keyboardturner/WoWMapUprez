@@ -11,14 +11,12 @@ This project does not include any maps which are already 4k resolution, such as 
 
 [Or maybe the Dungeon addition?](https://github.com/keyboardturner/WoWMapUprez_Dungeons)
 
-Last Update:  Patch 9.0.5.38134 ![patch 9.0.5.38134][logo]
+Last Update:  Patch 9.1.5.38134 ![patch 9.1.5][logo]
 
 
-## What's new in Shadowlands Patch 9.0.5?
+## What's new in Shadowlands Patch 9.1.5?
 
-Most of the open world maps are already 4k quality, however there are some exceptions such as covenant sanctums and dungeons. A major feature that has since changed is the world map, however. It's highly recommended that you upgrade this particular map.
-
-Recently have begun to fix up minor seams and other fixes. I don't have much of a way to automate this for now, but I try to fix up where I'm directed. This is simply due to how the uprez upgrades individual tiles, so it doesn't see the map as a whole. If I can figure out how to combine a map, then uprez, then split the map apart again then maybe I can automate a fix but for now I'm going to work a bit slow to fix.
+Mac'aree got renamed to Eredath
 
 <!-- dropdown -->
 <!-- BFA → Shadowlands Patch: link -->
