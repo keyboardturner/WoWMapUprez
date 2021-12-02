@@ -22,6 +22,8 @@ Mac'aree got renamed to Eredath
 <!-- BFA → Shadowlands Patch: link -->
 <!-- Only install this if you are updating from patch 8.3.0 to 9.0.n -->
 
+## Stat Info
+
 Approximate size of project: 5.6 GB
 
 Approximate size of both projects: 14.3 GB
